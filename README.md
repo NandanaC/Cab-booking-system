@@ -15,7 +15,8 @@ PES1UG19CS294 : Neha Arun Angadi
 
 ## Tools and Frameworks :
 
-1. Java Swing UI
-2. MySQL database
+1. MVC Framework
+2. Java Swing UI
+3. MySQL database
 
 Coded and executed using Eclipse IDE.
